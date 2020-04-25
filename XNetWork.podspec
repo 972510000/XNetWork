@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'XNetWork/Classes/**/*'
+  s.source_files = 'XNetWork/Classes/*'
   
   # s.resource_bundles = {
   #   'XNetWork' => ['XNetWork/Assets/*.png']
